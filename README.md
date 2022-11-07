@@ -1,5 +1,5 @@
 # Daniele Falcone
-<img src="Tux.png"
+<img src="Tux.jpeg"
      alt="Daniele Falcone"
      style="float: left; margin-right: 10px;" />
 ## Geboren 
