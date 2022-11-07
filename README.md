@@ -3,7 +3,7 @@
 ## Geboren 
 13.08.1993
 
-## Stduium 
+## Studium 
 HFU
 
 
