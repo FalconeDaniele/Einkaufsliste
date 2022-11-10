@@ -11,3 +11,10 @@ HFU
 
 > A very meaningful
 > Quote
+
+| Key   | Value |
+| ----- | ----- |
+| This  | 1     |
+| is    | 1     |
+| a     | 2     |
+| Table | 3     |
